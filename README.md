@@ -65,14 +65,11 @@ bash script/eval_qwen3.sh
 
 ## Citation
 ```
-@misc{bai2025effectivecodeintegratedreasoning,
-      title={Towards Effective Code-Integrated Reasoning}, 
-      author={Fei Bai and Yingqian Min and Beichen Zhang and Zhipeng Chen and Wayne Xin Zhao and Lei Fang and Zheng Liu and Zhongyuan Wang and Ji-Rong Wen},
-      year={2025},
-      eprint={2505.24480},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.24480}, 
+@article{bai2025towards,
+  title={Towards Effective Code-Integrated Reasoning},
+  author={Bai, Fei and Min, Yingqian and Zhang, Beichen and Chen, Zhipeng and Zhao, Wayne Xin and Fang, Lei and Liu, Zheng and Wang, Zhongyuan and Wen, Ji-Rong},
+  journal={arXiv preprint arXiv:2505.24480},
+  year={2025}
 }
 ```
 
